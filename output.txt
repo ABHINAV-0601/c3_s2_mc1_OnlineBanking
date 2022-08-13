@@ -1,0 +1,77 @@
+Output on first input
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.4\lib\idea_rt.jar=50141:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.4\bin" -Dfile.encoding=UTF-8 -classpath "D:\NIIT\course3\Sprint 2\c3_s2_mc1_OnlineBanking\out\production\c3_s2_mc1_OnlineBanking" SavingsAccountImpl
+Enter your age :
+17
+You are not eligible to open bank account.
+
+Process finished with exit code 0
+
+
+Output on second input
+
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.4\lib\idea_rt.jar=50156:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.4\bin" -Dfile.encoding=UTF-8 -classpath "D:\NIIT\course3\Sprint 2\c3_s2_mc1_OnlineBanking\out\production\c3_s2_mc1_OnlineBanking" SavingsAccountImpl
+Enter your age :
+21
+Enter your name :
+Daniel
+Enter balance with which you want to open account :
+3000
+Enter account stats :
+Active
+Account Number is :1534625364
+Account Holder Name is :Daniel
+Account Status is :Active
+Account balance is : $3000.0
+Balance after crediting cash is : $3250.0
+Balance after debiting cash is : $2750.0
+
+Process finished with exit code 0
+
+
+Output on third input
+
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.4\lib\idea_rt.jar=50165:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.4\bin" -Dfile.encoding=UTF-8 -classpath "D:\NIIT\course3\Sprint 2\c3_s2_mc1_OnlineBanking\out\production\c3_s2_mc1_OnlineBanking" SavingsAccountImpl
+Enter your age :
+22
+Enter your name :
+Daniel Marshall
+Enter balance with which you want to open account :
+3000
+Enter account stats :
+Active
+Account Number is :266378417891
+Account Holder Name is :Daniel Marshall
+Account Status is :Active
+Account balance is : $3000.0
+Enter the amount you want to credit :
+300
+Balance after crediting cash is : $3300.0
+Enter the amount you want to debit :
+500
+Balance after debiting cash is : $2500.0
+
+Process finished with exit code 0
+
+Output on fourth input
+
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.4\lib\idea_rt.jar=50176:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.4\bin" -Dfile.encoding=UTF-8 -classpath "D:\NIIT\course3\Sprint 2\c3_s2_mc1_OnlineBanking\out\production\c3_s2_mc1_OnlineBanking" SavingsAccountImpl
+Enter your age :
+22
+Enter your name :
+Daniel Marshall
+Enter balance with which you want to open account :
+3000
+Enter account stats :
+Active
+Account Number is :9785465272
+Account Holder Name is :Daniel Marshall
+Account Status is :Active
+Account balance is : $3000.0
+Enter the amount you want to credit :
+300
+Balance after crediting cash is : $3300.0
+Enter the amount you want to debit :
+500
+Balance after debiting cash is : $2800.0
+
+Process finished with exit code 0
